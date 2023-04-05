@@ -9,6 +9,7 @@ create a database with the name of test in your local machine
 ROUTES
 
 1. Camera Routes
+
 GET http://localhost:3000/camera/
 
 GET http://localhost:3000/camera/:id 
